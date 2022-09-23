@@ -4,5 +4,5 @@
  
  ## HTML and CSS are some of my favourite programming languages.
  > Website building
- > Styling
+ >> Styling
  > ...going to learn more about Javascript; interaction with a website
