@@ -2,7 +2,7 @@
 
 Check out cool CSS and HTML coding tutorials on my YouTube channel: [Codingstar Tutorials](https://www.youtube.com/channel/UCadItSVcBu0pS3ES8UJQJ1A)
 
-<iframe src="https://www.youtube.com/watch?v=G_7sFwk2rHQ"></iframe>
+<embed type="video/mp4" src="https://www.youtube.com/watch?v=G_7sFwk2rHQ" width="400" height="300">
 
  <a> <img alt = "TL122022's GitHub stats" src="https://readme-typing-svg.herokuapp.com?font=rubik&color=ADBAC7&center=true&vCenter=true&lines=I+am+a+student;I+am+a+coder;I+am+a+creator;I+am+an+agent"></a>
  
