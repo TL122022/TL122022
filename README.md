@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 Check out cool CSS and HTML coding tutorials on my YouTube channel: [Codingstar Tutorials](https://www.youtube.com/channel/UCadItSVcBu0pS3ES8UJQJ1A) <br>
-Top Videos on CSS: <br>
-[How To Make Animated Gradient Spring using CSS And HTML](https://www.youtube.com/watch?v=zX9aJnLBLX8) <br>
-[CODEPEN](https://codepen.io/collection/gYGjEB)
+Top Videos: <br>
+[How To Animated Login Page using CSS And HTML](https://www.youtube.com/watch?v=CffFBZUeOOY) <br>
+[Complete Responsive Website Using Javascript, CSS And HTML](https://www.youtube.com/watch?v=UIIm_bWapRA) <br>
+[CODEPEN COLLECTION](https://codepen.io/collection/gYGjEB)
 
 
 
@@ -13,5 +14,5 @@ Top Videos on CSS: <br>
 ```
  Website building
  Styling
- . . . going to learn more about Javascript; interaction with a website
+ Javascript (Learning In Progress...)
 ```
