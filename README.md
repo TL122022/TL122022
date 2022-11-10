@@ -11,6 +11,9 @@ Top Videos: <br>
  <a> <img alt = "TL122022's GitHub stats" src="https://readme-typing-svg.herokuapp.com?font=rubik&color=ADBAC7&center=true&vCenter=true&lines=I+am+a+coder;I+am+a+creator;I+am+an+agent"></a>
 
  ## HTML and CSS are some of my favourite programming languages.
+ 
+         <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="cstutorials" data-description="Support me on Buy me a coffee!" data-message="Thanks for your support!" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
 ```
  Website building
  Styling
