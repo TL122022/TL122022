@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Check out cool CSS, Javascript and HTML coding tutorials on my YouTube channel: [Codingstar Tutorials](https://www.youtube.com/@CodingstarTutorials) <br>
+Check out cool CSS, Javascript and HTML coding tutorials on my YouTube channel: [CodingstarTutorials][youtube] <br>
 Support me: https://www.buymeacoffee.com/cstutorials
 
 [CODEPEN COLLECTION](https://codepen.io/collection/gYGjEB)
