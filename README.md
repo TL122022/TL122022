@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-Check out cool CSS and HTML coding tutorials on my YouTube channel: [Codingstar Tutorials](https://www.youtube.com/@CodingstarTutorials) <br>
+Check out cool CSS, Javascript and HTML coding tutorials on my YouTube channel: [Codingstar Tutorials](https://www.youtube.com/@CodingstarTutorials) <br>
 Support me: https://www.buymeacoffee.com/cstutorials
 
 [CODEPEN COLLECTION](https://codepen.io/collection/gYGjEB)
@@ -22,7 +22,7 @@ Support me: https://www.buymeacoffee.com/cstutorials
  ### HTML and CSS are some of my favourite programming languages.
 
 ```
- Website building
+ Website creating
  Styling
- Javascript (Learning In Progress...)
+ Javascript
 ```
